@@ -35,7 +35,7 @@
 Clone the repository and install necessary packages:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/driver-safety-monitoring.git
+git clone https://github.com/Siddharthrk17/driver-safety-monitoring.git
 cd driver-safety-monitoring
 pip install -r requirements.txt
 ```
