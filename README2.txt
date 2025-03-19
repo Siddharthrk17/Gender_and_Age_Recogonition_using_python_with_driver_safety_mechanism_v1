@@ -1,7 +1,7 @@
-This is the file for the models and image and paste it in the new file location
+This is the file for the models and image. Now download and paste it in the new file location where you are doing your project.
 
 https://drive.google.com/drive/folders/1sHeiyfIMD11zESIPd154YX8R8OV8kuLW?hl=en_GB
 
-the output will be laggy as we did not use gpu for rendering 
+the output will be laggy as we did not use gpu for rendering to amplify the output
 
 hope you like it :)
