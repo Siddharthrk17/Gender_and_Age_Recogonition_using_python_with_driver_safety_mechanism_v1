@@ -41,7 +41,7 @@ def monitor_driver():
     genderModel = "gender_net.caffemodel"
     
     MODEL_MEAN_VALUES = (78.4263377603, 87.7689143744, 114.895847746)
-    ageList = [f'({i}-{i+2})' for i in range(0, 100, 2)]
+    ageList = [f'({i}-{i+5})' for i in range(0, 100, 6)]
     genderList = ['Male', 'Female']
     
     faceNet = cv2.dnn.readNet(faceModel, faceProto)
